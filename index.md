@@ -1,9 +1,3 @@
-<!doctype html>
-<html>
-<head>
-<title>Nothing here yet!</title>
-</head>
-<body>
-<h1>Nothing here yet!</h1>
-</body>
-</html>
+### Nothing here yet
+
+TODO: Add under-construction gif :P
