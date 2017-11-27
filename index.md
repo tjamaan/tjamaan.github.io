@@ -1,6 +1,6 @@
 # Turki Jamaan
 
-## Doha Rust (2017-11-18)
+## Rust Doha (2017-11-18)
 I had the pleasure of organizing the first Rust Doha meetup with
 Mohammed Makhlouf (@msmakhlouf on Github) and Mohammed Samir (@msamir on Github).
 
